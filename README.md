@@ -48,5 +48,3 @@ You can view or generate the ERD using MySQL Workbench or online tools.
 [View ERD on dbdiagram.io]([https://dbdiagram.io/d/682cc81ab9f7446da36173ff)
 
 
-## 📂 Project Structure
-
